@@ -48,6 +48,8 @@ python app.py
 * **Python:** Programming Language
 * **NumPy:** Numerical Computing Library
 * **Pygame:** Python library for game development (used for sound alerts)
+* **Imutils:**  A series of convenience functions for image processing
+* **Flask:** Web framework for building web applications in Python
 
 ## Usage
 
